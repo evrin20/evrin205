@@ -1,3 +1,31 @@
 body{
-    
+    font-family: 'Poppins', sans-serif;
+    color: white;
 }
+.nav-link, .navbar-brand {
+    color: white;
+    font-weight: 700;
+}
+.navbar-brand{
+    font-size: 45px;
+}
+.mybackground {
+    background-color: #4741AF;
+}
+.banner-heading{
+    font-size: 70px;
+    font-weight: 800;
+}
+.banner-subheading{
+    font-size: 22px;
+    font-weight: 500;
+}
+.banner-btn {
+    text-decoration: none;
+    background-color: #6c63ff;
+    color: white;
+    padding: 15px 55px;
+    border-radius: 35px;
+    font-weight: 700;
+}
+
