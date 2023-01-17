@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    color: white;
+    
 }
 .nav-link, .navbar-brand {
     color: white;
@@ -12,13 +12,19 @@ body{
 .mybackground {
     background-color: #4741AF;
 }
+.myicons{
+    padding-top: 1%;
+    color: white;
+}
 .banner-heading{
     font-size: 70px;
     font-weight: 800;
+    color: white;
 }
 .banner-subheading{
     font-size: 22px;
     font-weight: 500;
+    color: white;
 }
 .banner-btn {
     text-decoration: none;
@@ -27,5 +33,75 @@ body{
     padding: 15px 55px;
     border-radius: 35px;
     font-weight: 700;
+    
 }
 
+.text-suptitle {
+    color: #6c63ff;
+    font-size: 27px;
+    font-weight: 800;
+}
+
+.text-title {
+    font-weight: 800;
+
+}
+
+.text-p {
+    font-weight: 700;
+    font-size: 17px;
+}
+.img-left {
+    margin-left: -270px;
+}
+
+.text-link {
+    font-weight: 700;
+    font-size: 17px;
+    color: #222222;
+   
+}
+
+.img-rounded-background {
+    background-color: rgb(243, 249, 251);
+    border-radius: 50%;
+
+}
+
+.service-title {
+    font-weight: 700;
+    font-size: 30px;
+}
+.service-icon {
+    background-color: #6c63ff;
+    padding: 6px;
+    border-radius: 50%;
+    
+}
+.service-icon {
+    -webkit-transition-duration:.8s;
+}
+
+
+.mycard:hover .service-icon {
+    margin-left: 150px;
+}
+
+.myimg:hover {
+    -webkit-transition-duration:.8s;
+}
+
+.myimg:hover {
+    margin-right: 500px;
+}
+
+.myService {
+    -webkit-transition-duration:.8s;
+}
+.myService {
+    margin-right: 500px;
+}
+.myback0 {
+    background-color: rgb(243, 249, 251);
+    
+}
